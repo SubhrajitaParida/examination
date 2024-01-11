@@ -1,0 +1,13 @@
+package examination;
+
+import java.util.List;
+
+import org.junit.Test;
+
+public class EmployeeTest {
+    @Test
+	public void test() {
+		EmployeeExist employeeExist=new EmployeeExist();
+		employeeExist.existOrNot();
+	}
+}

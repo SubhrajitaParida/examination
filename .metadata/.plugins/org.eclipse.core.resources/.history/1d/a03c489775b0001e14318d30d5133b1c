@@ -1,0 +1,9 @@
+package examination;
+
+import java.util.List;
+
+public class CountingMaleAndFemale {
+public static void main(String[] args) {
+	List<Employee> employees=AddingElements.addingToList();
+}
+}

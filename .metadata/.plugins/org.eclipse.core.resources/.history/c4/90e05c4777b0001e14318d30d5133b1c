@@ -1,0 +1,7 @@
+//Q.Number of male and female employees are there in the sales and marketing department?
+
+package examination;
+
+public class MalesPresentInDepartment {
+
+}

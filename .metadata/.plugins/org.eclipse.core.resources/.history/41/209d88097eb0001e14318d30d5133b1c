@@ -1,0 +1,13 @@
+package examination;
+
+import java.util.List;
+
+import org.junit.Test;
+
+public class EmployeeTest {
+    @Test
+	public void test() {
+		List<Employee> employees=AddingElements.addingToList();
+		employees.stream().filter(e->e.getName().contains("Suresh")).forEach(e->System.out.println(e));
+	}
+}

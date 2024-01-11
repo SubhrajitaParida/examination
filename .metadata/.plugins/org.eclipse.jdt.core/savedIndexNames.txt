@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\Subhrajita Parida\OneDrive\Desktop\ExaminationCorenuts\.metadata\.plugins\org.eclipse.jdt.core
+2011409244.index
+4028505806.index
+1865797976.index
+1416556337.index
+1940398028.index

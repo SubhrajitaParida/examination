@@ -1,0 +1,11 @@
+package examination;
+
+import java.util.List;
+
+public class EmployeeExist {
+
+	public void existOrNot() {
+		List<Employee> employees=AddingElements.addingToList();
+		employees.stream().filter(e->e.getName().contains("Suresh")).forEach(e->System.out.println(e));
+	}
+}

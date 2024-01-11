@@ -1,0 +1,22 @@
+package examination;
+
+import java.util.Scanner;
+
+public class SquarePattern {
+public static void main(String[] args) {
+	Scanner scanner=new Scanner(System.in);
+	int number=scanner.nextInt();
+	for(int index1=1;index1<number;index1++) {
+		for(int index2=1;index2<number;index2++) {
+			if(((index1==1) ||(index2==1)) || (index1==number) {
+				System.out.print("* ");
+			}
+//			else {
+//				System.out.print(" ");
+//			}
+		}
+		System.out.println();
+
+	}
+}
+}
